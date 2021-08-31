@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Stats](https://github-readme-stats.vercel.app/api?username=eionbk)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=eionbk&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **eionbk/eionbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
