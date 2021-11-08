@@ -1,6 +1,9 @@
 ### Hi there 👋
 [![My Stats](https://github-readme-stats.vercel.app/api?username=eionbk&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+I am a full stack Developer recently finished the HENRY bootcamp
+I am currently working on a colaborative full stack proyect to develop an ecomerce
+I also started the PCAP - Programming Essentials In Python Español 1021b at cisco academy
 <!--
 **eionbk/eionbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
