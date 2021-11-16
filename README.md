@@ -15,6 +15,7 @@ I also invite you to check my linked in profile ===> www.linkedin.com/in/iriosc0
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=eionbk&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
