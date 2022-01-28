@@ -17,9 +17,9 @@ I also invite you to check my linked in profile ===> www.linkedin.com/in/iriosc0
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=eionbk&count_private=true&show_icons=true&theme=vue)]
+![My Stats](https://github-readme-stats.vercel.app/api?username=eionbk&count_private=true&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eionbk)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eionbk)
 
 <!--
 **eionbk/eionbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
