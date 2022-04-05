@@ -1,8 +1,9 @@
 ### Hi there 👋
-My name is Irving Rios and I I am a full stack Developer recently finished the HENRY bootcamp. I am currently working on a colaborative full stack proyect to develop an ecomerce
-and I also started the PCAP - Programming Essentials In Python Español 1021b at cisco academy, I love technology and have a huge interest in Artificial Inteligence, computer vison
-and humnan-machine interaction, I am open for work and invite you to check my repositoreies that I constanly update for now you can check a full stack proyect I made for the HENRY bootcamp at (https://github.com/eionbk/projectFood) 
-I also invite you to check my linked in profile ===> www.linkedin.com/in/iriosc0900
+My name is Irving Rios currently working as Jr Software developer. I love technology and have a huge interest in Artificial Inteligence, computer vison
+and humnan-machine interaction, 
+
+ - You can check a full stack proyect I made for the HENRY bootcamp at (https://github.com/eionbk/projectFood) 
+ - I also invite you to check my linked in profile ===> www.linkedin.com/in/iriosc0900
 
 #### `My technical proficiencies include:` <br>
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
