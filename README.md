@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Irving Rios currently working as Jr Software developer. I love technology and have a huge interest in Artificial Inteligence, computer vison
-and humnan-machine interaction, 
+My name is Irving Rios, Jr Software developer that worked at Torre.ai from November-2021 to December-2023.
+
  - I invite you to check my linked in profile ===> www.linkedin.com/in/iriosc0900
 
 #### `My technical proficiencies include:` <br>
