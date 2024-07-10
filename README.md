@@ -24,7 +24,7 @@ My name is Irving Rios, Jr Software developer that worked at Torre.ai from Novem
 <div align="center">
   <a href="https://github.com/MichelleRios-tech">
     <img height="150em" src="https://readme-stats.clckblog.space/api?username=MichelleRios-tech&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://readme-stats.clckblog.space/api/top-langs/?username=MichelleRios-tech&layout=compact&langs_count=10&theme=gotham" />
+    <img height="150em" src="https://readme-stats.clckblog.space/api/top-langs/?username=MichelleRios-tech&layout=compact&langs_count=20&theme=gotham&count_private=true" />
     <br/>
     <img height="150em" src=https://github-readme-streak-stats.herokuapp.com/?user=MichelleRios-tech&theme=gotham&hide_border=false) />
   </a>
